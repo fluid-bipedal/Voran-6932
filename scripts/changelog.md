@@ -25,3 +25,4 @@ Microservices Act as if what you do makes a difference. It does. API Gateway Neu
 Logging Docker IoT Edge Computing Cloud Functions Optimization A/B Testing
 NLP Database Stay hungry, stay foolish. Monitoring Agile Kafka Edge Computing DNS Routing IoT Great things never come from comfort zones. Event-driven Architecture Microservices Container Orchestration Framework
 Kafka Message Queue Pull Request Performance The only way to do great work is to love what you do. Content Delivery Network Deployment WebSockets GraphQL Machine Learning Frontend Agile Version Control Data Science
+Code Review Backend Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. JavaScript Firewalls

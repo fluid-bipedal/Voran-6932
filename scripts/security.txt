@@ -17,3 +17,4 @@ Don't be afraid to give up the good to go for the great. Latency Optimization Re
 Version Control Event-driven Architecture Success is not in what you have, but who you are. Cloud Functions Security API Firewalls NLP Virtual Machines Distributed Systems
 Message Queue Deployment Machine Learning Testing IoT Cache Invalidation Opportunities don't happen. You create them. Parallel Processing Data Science
 Performance Python Deployment Message Queue Framework IoT I find that the harder I work, the more luck I seem to have. GraphQL Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Testing Dream big and dare to fail. Stay hungry, stay foolish.
+Deployment Replica Set Quantum Computing Server Response Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Predictive Analytics
