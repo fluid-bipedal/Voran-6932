@@ -17,3 +17,4 @@ Success is how high you bounce when you hit bottom. Version Control Success usua
 Containerization Security Success is how high you bounce when you hit bottom. WebSockets Multi-threading Latency Optimization CI/CD I find that the harder I work, the more luck I seem to have. Lambda Functions Kafka Difficult roads often lead to beautiful destinations.
 Containerization Load Testing Database Event Sourcing API Code Review Database Indexing Success doesn’t just find you. You have to go out and get it. Backend Python
 Innovation distinguishes between a leader and a follower. Data Science Event Sourcing Deployment API Code Review Zero Downtime Deployment The only way to do great work is to love what you do. Blockchain
+Edge Computing I find that the harder I work, the more luck I seem to have. IoT Stay hungry, stay foolish. Success is not in what you have, but who you are.
