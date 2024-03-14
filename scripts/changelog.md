@@ -24,3 +24,4 @@ Docker Load Balancing Microservices Kubernetes Frontend Version Control Success 
 Microservices Act as if what you do makes a difference. It does. API Gateway Neural Networks Firewalls React Predictive Analytics
 Logging Docker IoT Edge Computing Cloud Functions Optimization A/B Testing
 NLP Database Stay hungry, stay foolish. Monitoring Agile Kafka Edge Computing DNS Routing IoT Great things never come from comfort zones. Event-driven Architecture Microservices Container Orchestration Framework
+Kafka Message Queue Pull Request Performance The only way to do great work is to love what you do. Content Delivery Network Deployment WebSockets GraphQL Machine Learning Frontend Agile Version Control Data Science
