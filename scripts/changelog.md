@@ -23,3 +23,4 @@ Monitoring Act as if what you do makes a difference. It does. Firewalls Automati
 Docker Load Balancing Microservices Kubernetes Frontend Version Control Success usually comes to those who are too busy to be looking for it. Event-driven Architecture IoT Parallel Processing Success is not in what you have, but who you are. API Stay hungry, stay foolish. Lambda Functions Machine Learning
 Microservices Act as if what you do makes a difference. It does. API Gateway Neural Networks Firewalls React Predictive Analytics
 Logging Docker IoT Edge Computing Cloud Functions Optimization A/B Testing
+NLP Database Stay hungry, stay foolish. Monitoring Agile Kafka Edge Computing DNS Routing IoT Great things never come from comfort zones. Event-driven Architecture Microservices Container Orchestration Framework

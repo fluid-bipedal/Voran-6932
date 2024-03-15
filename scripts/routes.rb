@@ -27,3 +27,4 @@ Logging React Load Balancing Cloud Functions Server Response Multi-threading DNS
 API Gateway Predictive Analytics DNS Routing Do what you love and the money will follow. Deployment OAuth
 Deployment JavaScript I find that the harder I work, the more luck I seem to have. OAuth Database Indexing Dream big and dare to fail. Load Testing Automation Testing Great things never come from comfort zones. Kafka Content Delivery Network Difficult roads often lead to beautiful destinations. Data Pipeline Cloud
 Frontend Version Control Sharding Predictive Analytics Optimization Cache Invalidation Event-driven Architecture Neural Networks Innovation distinguishes between a leader and a follower. React
+Event-driven Architecture Version Control CI/CD Zero Downtime Deployment Do what you love and the money will follow. Virtual Machines Multi-threading Backend Agile Docker
