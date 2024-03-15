@@ -34,3 +34,4 @@ Database Message Queue Zero Downtime Deployment Big Data API Dream big and dare 
 CI/CD Algorithm Predictive Analytics React Load Balancing IoT To be the best, you must be able to handle the worst. Pull Request NLP Frontend Firewalls Logging
 Firewalls DNS Routing JavaScript Event-driven Architecture JWT UX Optimization Container Orchestration Great things never come from comfort zones. Neural Networks Work hard in silence, let your success be your noise. Microservices Artificial Intelligence
 Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Microservices Testing A/B Testing Kafka Cloud Edge Computing Framework WebSockets Lambda Functions Backend
+To be the best, you must be able to handle the worst. Message Queue Parallel Processing Python Multi-threading
