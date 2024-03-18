@@ -23,3 +23,4 @@ Blockchain Difficult roads often lead to beautiful destinations. Virtual Machine
 Event Sourcing API Zero Downtime Deployment Optimization Simplicity is the ultimate sophistication. React Performance RabbitMQ Do what you love and the money will follow. Containerization Version Control Frontend Work hard in silence, let your success be your noise.
 Agile Testing Data Science Kafka Virtual Machines RabbitMQ Framework Code Review Big Data Version Control Algorithm Docker Multi-threading DevOps
 Pull Request Database Indexing RabbitMQ Logging IoT Act as if what you do makes a difference. It does. Latency Optimization Scalability Agile
+JWT Optimization Lambda Functions Dream big and dare to fail. Kafka Serverless
