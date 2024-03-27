@@ -23,3 +23,4 @@ Frontend Zero Downtime Deployment Machine Learning Parallel Processing Version C
 Machine Learning Work hard in silence, let your success be your noise. Cloud Functions Scalability Load Balancing Big Data Performance Frontend GraphQL Load Testing
 Virtual Machines Optimization Lambda Functions Performance CI/CD Parallel Processing Firewalls
 Replica Set React Firewalls Dream big and dare to fail. GraphQL Cloud Pull Request OAuth To be the best, you must be able to handle the worst. UX Optimization Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
+Serverless Containerization DevOps Replica Set Great things never come from comfort zones.
