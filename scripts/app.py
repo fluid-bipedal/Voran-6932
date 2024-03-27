@@ -9,3 +9,4 @@ Machine Learning Code Review Python Cache Invalidation JavaScript Load Balancing
 Cache Invalidation Don't be afraid to give up the good to go for the great. Microservices Zero Downtime Deployment Docker
 Performance Docker Big Data Cloud Difficult roads often lead to beautiful destinations. API Gateway
 The only way to do great work is to love what you do. Predictive Analytics OAuth Success doesn’t just find you. You have to go out and get it. Big Data
+Algorithm Sharding Opportunities don't happen. You create them. React To be the best, you must be able to handle the worst.

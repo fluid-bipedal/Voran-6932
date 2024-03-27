@@ -16,3 +16,4 @@ API Gateway Content Delivery Network Event-driven Architecture I find that the h
 Don't be afraid to give up the good to go for the great. Latency Optimization Replica Set Great things never come from comfort zones. Parallel Processing Artificial Intelligence Difficult roads often lead to beautiful destinations. Kubernetes
 Version Control Event-driven Architecture Success is not in what you have, but who you are. Cloud Functions Security API Firewalls NLP Virtual Machines Distributed Systems
 Message Queue Deployment Machine Learning Testing IoT Cache Invalidation Opportunities don't happen. You create them. Parallel Processing Data Science
+Performance Python Deployment Message Queue Framework IoT I find that the harder I work, the more luck I seem to have. GraphQL Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Testing Dream big and dare to fail. Stay hungry, stay foolish.

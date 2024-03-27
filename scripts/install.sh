@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. NLP A/B Testing Neural Networ
 DevOps Algorithm Content Delivery Network Load Testing Success is how high you bounce when you hit bottom. Data Pipeline Container Orchestration API Gateway Great things never come from comfort zones. To be the best, you must be able to handle the worst.
 Work hard in silence, let your success be your noise. NLP Stay hungry, stay foolish. Microservices Data Science Monitoring Artificial Intelligence Blockchain React Lambda Functions Backend Serverless GraphQL JavaScript
 Lambda Functions Monitoring Content Delivery Network Multi-threading Firewalls Act as if what you do makes a difference. It does. Algorithm
+JavaScript Replica Set Firewalls Monitoring Sharding Pull Request The only way to do great work is to love what you do. API Gateway Logging Don't be afraid to give up the good to go for the great.
