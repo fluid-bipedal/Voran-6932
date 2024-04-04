@@ -25,3 +25,4 @@ Kubernetes Containerization Performance API Gateway Blockchain Great things neve
 Simplicity is the ultimate sophistication. Database Indexing WebSockets Containerization JWT DevOps
 Logging React Load Balancing Cloud Functions Server Response Multi-threading DNS Routing Simplicity is the ultimate sophistication. Distributed Systems Scalability Don't be afraid to give up the good to go for the great.
 API Gateway Predictive Analytics DNS Routing Do what you love and the money will follow. Deployment OAuth
+Deployment JavaScript I find that the harder I work, the more luck I seem to have. OAuth Database Indexing Dream big and dare to fail. Load Testing Automation Testing Great things never come from comfort zones. Kafka Content Delivery Network Difficult roads often lead to beautiful destinations. Data Pipeline Cloud

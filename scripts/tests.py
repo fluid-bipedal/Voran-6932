@@ -31,3 +31,4 @@ Kubernetes Pull Request Python Event-driven Architecture IoT Scalability Framewo
 To be the best, you must be able to handle the worst. Multi-threading Sharding Algorithm Docker Deployment
 Quantum Computing Act as if what you do makes a difference. It does. Microservices Monitoring NLP Container Orchestration Deployment Lambda Functions JWT Virtual Machines
 Database Message Queue Zero Downtime Deployment Big Data API Dream big and dare to fail. Framework Testing A/B Testing JWT I find that the harder I work, the more luck I seem to have. Logging
+CI/CD Algorithm Predictive Analytics React Load Balancing IoT To be the best, you must be able to handle the worst. Pull Request NLP Frontend Firewalls Logging

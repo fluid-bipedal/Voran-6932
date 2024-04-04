@@ -21,3 +21,4 @@ Testing Blockchain Containerization Python Security WebSockets Do what you love 
 Optimization Database Indexing Load Testing API JWT OAuth Replica Set Algorithm Framework Neural Networks Load Balancing Data Science Simplicity is the ultimate sophistication. Code Review
 Frontend Zero Downtime Deployment Machine Learning Parallel Processing Version Control Success doesn’t just find you. You have to go out and get it. WebSockets Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Quantum Computing React Success usually comes to those who are too busy to be looking for it.
 Machine Learning Work hard in silence, let your success be your noise. Cloud Functions Scalability Load Balancing Big Data Performance Frontend GraphQL Load Testing
+Virtual Machines Optimization Lambda Functions Performance CI/CD Parallel Processing Firewalls
