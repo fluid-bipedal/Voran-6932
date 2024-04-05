@@ -16,3 +16,4 @@ Act as if what you do makes a difference. It does. Virtual Machines Success is h
 Success is how high you bounce when you hit bottom. Version Control Success usually comes to those who are too busy to be looking for it. API Sharding
 Containerization Security Success is how high you bounce when you hit bottom. WebSockets Multi-threading Latency Optimization CI/CD I find that the harder I work, the more luck I seem to have. Lambda Functions Kafka Difficult roads often lead to beautiful destinations.
 Containerization Load Testing Database Event Sourcing API Code Review Database Indexing Success doesn’t just find you. You have to go out and get it. Backend Python
+Innovation distinguishes between a leader and a follower. Data Science Event Sourcing Deployment API Code Review Zero Downtime Deployment The only way to do great work is to love what you do. Blockchain
