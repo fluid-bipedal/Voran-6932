@@ -26,3 +26,4 @@ Agile Data Science I find that the harder I work, the more luck I seem to have. 
 The only way to do great work is to love what you do. Database Dream big and dare to fail. GraphQL Simplicity is the ultimate sophistication. Kafka
 Latency Optimization Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Automation Great things never come from comfort zones. Backend Machine Learning API Gateway Big Data Success doesn’t just find you. You have to go out and get it. Edge Computing Serverless Scalability Kafka
 Monitoring Data Science Serverless Agile Latency Optimization Edge Computing Simplicity is the ultimate sophistication. Backend Database API WebSockets API Gateway
+Replica Set RabbitMQ Multi-threading Simplicity is the ultimate sophistication. JavaScript IoT Server Response If you can dream it, you can do it. Framework Content Delivery Network
