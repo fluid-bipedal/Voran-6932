@@ -20,3 +20,4 @@ DNS Routing Frontend Algorithm Firewalls API
 Event-driven Architecture Work hard in silence, let your success be your noise. Framework Multi-threading Version Control Data Science DNS Routing Python Replica Set Latency Optimization Code Review Automation React CI/CD
 Artificial Intelligence Success doesn’t just find you. You have to go out and get it. DNS Routing Performance Predictive Analytics The only way to do great work is to love what you do.
 I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Cloud Algorithm Agile Stay hungry, stay foolish.
+Logging Microservices Database Indexing Kubernetes Firewalls Message Queue
