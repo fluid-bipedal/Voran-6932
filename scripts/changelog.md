@@ -21,3 +21,4 @@ Algorithm Data Science Server Response IoT Success is not in what you have, but 
 Data Pipeline GraphQL Cache Invalidation Dream big and dare to fail. Scalability Logging Load Balancing Framework IoT Data Science
 Monitoring Act as if what you do makes a difference. It does. Firewalls Automation Simplicity is the ultimate sophistication. Multi-threading WebSockets Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Logging Artificial Intelligence
 Docker Load Balancing Microservices Kubernetes Frontend Version Control Success usually comes to those who are too busy to be looking for it. Event-driven Architecture IoT Parallel Processing Success is not in what you have, but who you are. API Stay hungry, stay foolish. Lambda Functions Machine Learning
+Microservices Act as if what you do makes a difference. It does. API Gateway Neural Networks Firewalls React Predictive Analytics
