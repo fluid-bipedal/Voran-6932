@@ -20,3 +20,4 @@ Containerization Content Delivery Network Security Logging Cloud Functions Docke
 Act as if what you do makes a difference. It does. Multi-threading Virtual Machines Logging Quantum Computing Pull Request Opportunities don't happen. You create them. React API Gateway
 Performance Algorithm Containerization Monitoring Cloud Edge Computing
 API Database Success doesn’t just find you. You have to go out and get it. API Gateway Kafka Success is how high you bounce when you hit bottom. Replica Set Work hard in silence, let your success be your noise. Server Response
+Optimization Virtual Machines Success is not in what you have, but who you are. Load Balancing Containerization Microservices Multi-threading Automation Load Testing Cloud Machine Learning Data Pipeline
