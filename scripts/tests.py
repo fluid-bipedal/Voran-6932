@@ -29,3 +29,4 @@ JavaScript Distributed Systems Zero Downtime Deployment Quantum Computing Server
 Replica Set Logging DevOps Neural Networks Data Science DNS Routing Data Pipeline Frontend
 Kubernetes Pull Request Python Event-driven Architecture IoT Scalability Framework Success doesn’t just find you. You have to go out and get it. Content Delivery Network Container Orchestration Machine Learning Server Response
 To be the best, you must be able to handle the worst. Multi-threading Sharding Algorithm Docker Deployment
+Quantum Computing Act as if what you do makes a difference. It does. Microservices Monitoring NLP Container Orchestration Deployment Lambda Functions JWT Virtual Machines
