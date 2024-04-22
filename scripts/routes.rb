@@ -24,3 +24,4 @@ Microservices Kubernetes Data Science Great things never come from comfort zones
 Kubernetes Containerization Performance API Gateway Blockchain Great things never come from comfort zones. JavaScript Success is not in what you have, but who you are. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Backend WebSockets The only way to do great work is to love what you do. RabbitMQ
 Simplicity is the ultimate sophistication. Database Indexing WebSockets Containerization JWT DevOps
 Logging React Load Balancing Cloud Functions Server Response Multi-threading DNS Routing Simplicity is the ultimate sophistication. Distributed Systems Scalability Don't be afraid to give up the good to go for the great.
+API Gateway Predictive Analytics DNS Routing Do what you love and the money will follow. Deployment OAuth
