@@ -18,3 +18,4 @@ Machine Learning Opportunities don't happen. You create them. Scalability Dream 
 Replica Set Agile To be the best, you must be able to handle the worst. Load Testing Success is not in what you have, but who you are. Python Optimization Firewalls Containerization
 DNS Routing Frontend Algorithm Firewalls API
 Event-driven Architecture Work hard in silence, let your success be your noise. Framework Multi-threading Version Control Data Science DNS Routing Python Replica Set Latency Optimization Code Review Automation React CI/CD
+Artificial Intelligence Success doesn’t just find you. You have to go out and get it. DNS Routing Performance Predictive Analytics The only way to do great work is to love what you do.

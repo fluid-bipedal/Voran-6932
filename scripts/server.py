@@ -15,3 +15,4 @@ WebSockets Algorithm Virtual Machines Logging JWT Database Indexing The only way
 Latency Optimization Serverless Act as if what you do makes a difference. It does. Event-driven Architecture Load Balancing Big Data The only way to do great work is to love what you do. Opportunities don't happen. You create them. Framework
 Cache Invalidation If you can dream it, you can do it. Machine Learning Replica Set Lambda Functions Firewalls
 Agile Edge Computing Lambda Functions Great things never come from comfort zones. Deployment
+Firewalls Algorithm Monitoring Virtual Machines Containerization Don't be afraid to give up the good to go for the great. JavaScript Sharding GraphQL Cloud Functions Pull Request
