@@ -28,3 +28,4 @@ Distributed Systems Parallel Processing Database Big Data Testing CI/CD Monitori
 OAuth Opportunities don't happen. You create them. Neural Networks Event-driven Architecture Code Review Distributed Systems Kubernetes
 Virtual Machines RabbitMQ Logging Code Review Big Data
 GraphQL Stay hungry, stay foolish. Success is not in what you have, but who you are. Virtual Machines Lambda Functions CI/CD Scalability Sharding Load Balancing JWT Act as if what you do makes a difference. It does.
+Great things never come from comfort zones. Zero Downtime Deployment Content Delivery Network Optimization Blockchain API Success is how high you bounce when you hit bottom. Event Sourcing Server Response OAuth Success usually comes to those who are too busy to be looking for it. Load Balancing Distributed Systems Difficult roads often lead to beautiful destinations. Firewalls
