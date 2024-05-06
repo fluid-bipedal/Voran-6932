@@ -17,3 +17,4 @@ JavaScript A/B Testing Cloud DNS Routing Quantum Computing
 Machine Learning Opportunities don't happen. You create them. Scalability Dream big and dare to fail. Docker If you can dream it, you can do it. Distributed Systems Version Control Load Balancing DNS Routing
 Replica Set Agile To be the best, you must be able to handle the worst. Load Testing Success is not in what you have, but who you are. Python Optimization Firewalls Containerization
 DNS Routing Frontend Algorithm Firewalls API
+Event-driven Architecture Work hard in silence, let your success be your noise. Framework Multi-threading Version Control Data Science DNS Routing Python Replica Set Latency Optimization Code Review Automation React CI/CD
