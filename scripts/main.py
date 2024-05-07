@@ -18,3 +18,4 @@ Multi-threading Great things never come from comfort zones. Opportunities don't 
 Performance Success usually comes to those who are too busy to be looking for it. Database Indexing Agile UX Optimization Lambda Functions Load Balancing Kubernetes Zero Downtime Deployment Act as if what you do makes a difference. It does. Pull Request Predictive Analytics To be the best, you must be able to handle the worst.
 Containerization Content Delivery Network Security Logging Cloud Functions Docker Database Indexing RabbitMQ Firewalls Microservices A/B Testing Server Response
 Act as if what you do makes a difference. It does. Multi-threading Virtual Machines Logging Quantum Computing Pull Request Opportunities don't happen. You create them. React API Gateway
+Performance Algorithm Containerization Monitoring Cloud Edge Computing
