@@ -18,3 +18,4 @@ Data Pipeline CI/CD GraphQL Content Delivery Network Container Orchestration Cod
 Lambda Functions NLP Agile Replica Set Happiness is not something ready made. It comes from your own actions. Algorithm CI/CD If you can dream it, you can do it. Event Sourcing RabbitMQ UX Optimization Quantum Computing Frontend
 Cloud Functions Edge Computing React Innovation distinguishes between a leader and a follower. JWT NLP Microservices Opportunities don't happen. You create them. UX Optimization Monitoring Multi-threading Firewalls
 Testing Blockchain Containerization Python Security WebSockets Do what you love and the money will follow. API Gateway
+Optimization Database Indexing Load Testing API JWT OAuth Replica Set Algorithm Framework Neural Networks Load Balancing Data Science Simplicity is the ultimate sophistication. Code Review
