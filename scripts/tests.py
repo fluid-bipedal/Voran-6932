@@ -28,3 +28,4 @@ Containerization Frontend DNS Routing Innovation distinguishes between a leader 
 JavaScript Distributed Systems Zero Downtime Deployment Quantum Computing Serverless Deployment Multi-threading Security Kubernetes Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Blockchain
 Replica Set Logging DevOps Neural Networks Data Science DNS Routing Data Pipeline Frontend
 Kubernetes Pull Request Python Event-driven Architecture IoT Scalability Framework Success doesn’t just find you. You have to go out and get it. Content Delivery Network Container Orchestration Machine Learning Server Response
+To be the best, you must be able to handle the worst. Multi-threading Sharding Algorithm Docker Deployment
