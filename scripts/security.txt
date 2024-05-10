@@ -14,3 +14,4 @@ RabbitMQ Backend Success doesn’t just find you. You have to go out and get it. D
 Neural Networks Innovation distinguishes between a leader and a follower. Scalability Load Balancing Cloud Optimization Containerization Backend Content Delivery Network Great things never come from comfort zones. Pull Request RabbitMQ Kubernetes Sharding
 API Gateway Content Delivery Network Event-driven Architecture I find that the harder I work, the more luck I seem to have. WebSockets If you can dream it, you can do it. Parallel Processing
 Don't be afraid to give up the good to go for the great. Latency Optimization Replica Set Great things never come from comfort zones. Parallel Processing Artificial Intelligence Difficult roads often lead to beautiful destinations. Kubernetes
+Version Control Event-driven Architecture Success is not in what you have, but who you are. Cloud Functions Security API Firewalls NLP Virtual Machines Distributed Systems
