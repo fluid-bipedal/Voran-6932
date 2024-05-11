@@ -26,3 +26,4 @@ GraphQL Docker Virtual Machines Logging WebSockets Backend Python Quantum Comput
 Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Distributed Systems Work hard in silence, let your success be your noise. Serverless Kafka OAuth NLP JWT Backend JavaScript Kubernetes Edge Computing Version Control Quantum Computing
 Distributed Systems Parallel Processing Database Big Data Testing CI/CD Monitoring Firewalls Innovation distinguishes between a leader and a follower. Data Science Server Response
 OAuth Opportunities don't happen. You create them. Neural Networks Event-driven Architecture Code Review Distributed Systems Kubernetes
+Virtual Machines RabbitMQ Logging Code Review Big Data
