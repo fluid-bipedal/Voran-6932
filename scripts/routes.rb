@@ -20,3 +20,4 @@ Work hard in silence, let your success be your noise. Zero Downtime Deployment D
 Success is not in what you have, but who you are. Monitoring API Gateway Dream big and dare to fail. Predictive Analytics Latency Optimization Machine Learning Simplicity is the ultimate sophistication. Load Testing Security Microservices
 Database Indexing GraphQL The only way to do great work is to love what you do. Cache Invalidation Machine Learning
 Agile Algorithm RabbitMQ Database To be the best, you must be able to handle the worst. GraphQL Scalability Latency Optimization Success usually comes to those who are too busy to be looking for it. WebSockets Performance Sharding Data Pipeline JWT Predictive Analytics
+Microservices Kubernetes Data Science Great things never come from comfort zones. GraphQL Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. A/B Testing
