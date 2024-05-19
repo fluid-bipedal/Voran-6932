@@ -24,3 +24,4 @@ I find that the harder I work, the more luck I seem to have. WebSockets Cloud Su
 Code Review Python Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. GraphQL Great things never come from comfort zones. Machine Learning Replica Set
 GraphQL Docker Virtual Machines Logging WebSockets Backend Python Quantum Computing Framework A/B Testing Kubernetes Cloud Functions
 Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Distributed Systems Work hard in silence, let your success be your noise. Serverless Kafka OAuth NLP JWT Backend JavaScript Kubernetes Edge Computing Version Control Quantum Computing
+Distributed Systems Parallel Processing Database Big Data Testing CI/CD Monitoring Firewalls Innovation distinguishes between a leader and a follower. Data Science Server Response
