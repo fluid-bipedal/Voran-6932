@@ -14,3 +14,4 @@ Distributed Systems Machine Learning Do what you love and the money will follow.
 WebSockets Algorithm Virtual Machines Logging JWT Database Indexing The only way to do great work is to love what you do. Load Testing Firewalls Multi-threading Microservices Predictive Analytics Difficult roads often lead to beautiful destinations. Lambda Functions Success is how high you bounce when you hit bottom.
 Latency Optimization Serverless Act as if what you do makes a difference. It does. Event-driven Architecture Load Balancing Big Data The only way to do great work is to love what you do. Opportunities don't happen. You create them. Framework
 Cache Invalidation If you can dream it, you can do it. Machine Learning Replica Set Lambda Functions Firewalls
+Agile Edge Computing Lambda Functions Great things never come from comfort zones. Deployment
