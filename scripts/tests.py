@@ -26,3 +26,4 @@ React Edge Computing Multi-threading Distributed Systems Don't be afraid to give
 React I find that the harder I work, the more luck I seem to have. DevOps To be the best, you must be able to handle the worst. API Gateway API Big Data
 Containerization Frontend DNS Routing Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Microservices API Success is how high you bounce when you hit bottom. Edge Computing Optimization Algorithm Great things never come from comfort zones. Deployment
 JavaScript Distributed Systems Zero Downtime Deployment Quantum Computing Serverless Deployment Multi-threading Security Kubernetes Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Blockchain
+Replica Set Logging DevOps Neural Networks Data Science DNS Routing Data Pipeline Frontend
