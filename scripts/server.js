@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Cloud Success usually comes to those 
 Python Framework DNS Routing Latency Optimization Load Testing IoT Container Orchestration Blockchain
 Success is how high you bounce when you hit bottom. Kafka Distributed Systems Security Parallel Processing Cache Invalidation Happiness is not something ready made. It comes from your own actions. Data Pipeline JWT Work hard in silence, let your success be your noise. Do what you love and the money will follow. Scalability
 Load Balancing Cache Invalidation Microservices Serverless Optimization Edge Computing The only way to do great work is to love what you do. Container Orchestration Artificial Intelligence
+If you can dream it, you can do it. Optimization I find that the harder I work, the more luck I seem to have. Cloud Dream big and dare to fail. Load Balancing Happiness is not something ready made. It comes from your own actions. Backend Container Orchestration
