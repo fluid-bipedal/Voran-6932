@@ -19,3 +19,4 @@ Happiness is not something ready made. It comes from your own actions. Act as if
 Replica Set Difficult roads often lead to beautiful destinations. Predictive Analytics Frontend React The only way to do great work is to love what you do.
 Algorithm Data Science Server Response IoT Success is not in what you have, but who you are. Zero Downtime Deployment Latency Optimization Content Delivery Network React Do what you love and the money will follow. Simplicity is the ultimate sophistication. Blockchain Distributed Systems
 Data Pipeline GraphQL Cache Invalidation Dream big and dare to fail. Scalability Logging Load Balancing Framework IoT Data Science
+Monitoring Act as if what you do makes a difference. It does. Firewalls Automation Simplicity is the ultimate sophistication. Multi-threading WebSockets Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Logging Artificial Intelligence

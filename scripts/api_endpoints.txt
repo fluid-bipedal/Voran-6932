@@ -20,3 +20,4 @@ Load Testing Kafka Container Orchestration Success is how high you bounce when y
 Containerization Replica Set Logging Lambda Functions Python Parallel Processing Cloud UX Optimization Load Testing DevOps Database Data Pipeline Scalability Zero Downtime Deployment Multi-threading
 Python Scalability Multi-threading Frontend Distributed Systems JWT
 Blockchain Difficult roads often lead to beautiful destinations. Virtual Machines Agile Server Response
+Event Sourcing API Zero Downtime Deployment Optimization Simplicity is the ultimate sophistication. React Performance RabbitMQ Do what you love and the money will follow. Containerization Version Control Frontend Work hard in silence, let your success be your noise.
