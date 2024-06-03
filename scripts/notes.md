@@ -21,3 +21,4 @@ Cloud Functions Big Data Success usually comes to those who are too busy to be l
 Frontend Data Pipeline Framework API Gateway Quantum Computing Container Orchestration I find that the harder I work, the more luck I seem to have. Logging Act as if what you do makes a difference. It does.
 Server Response Optimization Predictive Analytics Event-driven Architecture Act as if what you do makes a difference. It does.
 Virtual Machines Stay hungry, stay foolish. WebSockets Version Control Great things never come from comfort zones. Load Balancing API Container Orchestration JavaScript Happiness is not something ready made. It comes from your own actions. Testing Sharding Kafka
+CI/CD Event Sourcing Content Delivery Network I find that the harder I work, the more luck I seem to have. Framework
