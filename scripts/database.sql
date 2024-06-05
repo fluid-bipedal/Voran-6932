@@ -15,3 +15,4 @@ Automation Kafka Multi-threading Quantum Computing Backend Virtual Machines Succ
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. JWT Blockchain Neural Networks Success is how high you bounce when you hit bottom.
 JavaScript A/B Testing Cloud DNS Routing Quantum Computing
 Machine Learning Opportunities don't happen. You create them. Scalability Dream big and dare to fail. Docker If you can dream it, you can do it. Distributed Systems Version Control Load Balancing DNS Routing
+Replica Set Agile To be the best, you must be able to handle the worst. Load Testing Success is not in what you have, but who you are. Python Optimization Firewalls Containerization
