@@ -22,3 +22,4 @@ Latency Optimization Success doesn’t just find you. You have to go out and get i
 Algorithm Virtual Machines Agile Performance Frontend Blockchain Distributed Systems Container Orchestration If you can dream it, you can do it. Testing Data Science API Cloud
 JavaScript NLP DNS Routing GraphQL Frontend API Gateway
 IoT UX Optimization Serverless DNS Routing I find that the harder I work, the more luck I seem to have. Blockchain Version Control Neural Networks Agile Data Science Deployment A/B Testing Machine Learning Great things never come from comfort zones.
+React Edge Computing Multi-threading Distributed Systems Don't be afraid to give up the good to go for the great. Replica Set DevOps Opportunities don't happen. You create them. Success is not in what you have, but who you are. Virtual Machines Monitoring
