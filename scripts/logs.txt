@@ -12,3 +12,4 @@ GraphQL Cloud Functions Multi-threading Parallel Processing Version Control Data
 Firewalls Innovation distinguishes between a leader and a follower. Python Database React Big Data If you can dream it, you can do it. Code Review Containerization
 Code Review Zero Downtime Deployment Opportunities don't happen. You create them. Big Data WebSockets Success usually comes to those who are too busy to be looking for it. Backend Python Blockchain Innovation distinguishes between a leader and a follower.
 Blockchain DevOps Framework NLP Simplicity is the ultimate sophistication. Machine Learning Virtual Machines Docker Logging IoT If you can dream it, you can do it. Container Orchestration Don't be afraid to give up the good to go for the great. Load Balancing Security
+Security Edge Computing Neural Networks Predictive Analytics API Stay hungry, stay foolish. Zero Downtime Deployment The only way to do great work is to love what you do. Big Data

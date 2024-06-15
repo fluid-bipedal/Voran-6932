@@ -14,3 +14,4 @@ JavaScript GraphQL Do what you love and the money will follow. Great things neve
 Automation Kafka Multi-threading Quantum Computing Backend Virtual Machines Success usually comes to those who are too busy to be looking for it. Performance Microservices
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. JWT Blockchain Neural Networks Success is how high you bounce when you hit bottom.
 JavaScript A/B Testing Cloud DNS Routing Quantum Computing
+Machine Learning Opportunities don't happen. You create them. Scalability Dream big and dare to fail. Docker If you can dream it, you can do it. Distributed Systems Version Control Load Balancing DNS Routing
