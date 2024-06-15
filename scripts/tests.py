@@ -21,3 +21,4 @@ Logging Optimization To be the best, you must be able to handle the worst. Serve
 Latency Optimization Success doesn’t just find you. You have to go out and get it. Blockchain Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. UX Optimization
 Algorithm Virtual Machines Agile Performance Frontend Blockchain Distributed Systems Container Orchestration If you can dream it, you can do it. Testing Data Science API Cloud
 JavaScript NLP DNS Routing GraphQL Frontend API Gateway
+IoT UX Optimization Serverless DNS Routing I find that the harder I work, the more luck I seem to have. Blockchain Version Control Neural Networks Agile Data Science Deployment A/B Testing Machine Learning Great things never come from comfort zones.
