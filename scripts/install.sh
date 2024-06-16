@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. RabbitMQ C
 Simplicity is the ultimate sophistication. Testing Optimization DNS Routing Don't be afraid to give up the good to go for the great. Latency Optimization Containerization API Innovation distinguishes between a leader and a follower. Neural Networks
 Backend JWT Data Pipeline Security Act as if what you do makes a difference. It does.
 Great things never come from comfort zones. Machine Learning Framework The only way to do great work is to love what you do. Data Science Event-driven Architecture Data Pipeline Zero Downtime Deployment Scalability Lambda Functions Server Response Agile If you can dream it, you can do it. API Gateway Predictive Analytics
+Python Artificial Intelligence Monitoring Optimization Kafka Opportunities don't happen. You create them. Microservices API Blockchain Automation OAuth
