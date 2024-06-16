@@ -10,3 +10,4 @@ GraphQL API Gateway Distributed Systems CI/CD Backend Server Response Opportunit
 Containerization DNS Routing NLP To be the best, you must be able to handle the worst. Code Review Neural Networks Message Queue Don't be afraid to give up the good to go for the great. Machine Learning Scalability Lambda Functions
 Backend Microservices Stay hungry, stay foolish. Data Pipeline Success doesn’t just find you. You have to go out and get it. Performance
 Neural Networks GraphQL Database Indexing Sharding Version Control Lambda Functions If you can dream it, you can do it. Serverless Code Review RabbitMQ Simplicity is the ultimate sophistication. NLP
+Simplicity is the ultimate sophistication. Logging Cloud Functions Serverless Machine Learning Optimization Success is how high you bounce when you hit bottom. WebSockets Containerization DevOps UX Optimization Blockchain Multi-threading IoT If you can dream it, you can do it.
