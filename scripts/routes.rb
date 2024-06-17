@@ -18,3 +18,4 @@ WebSockets Neural Networks Load Balancing Virtual Machines Kafka Monitoring Succ
 Algorithm Cache Invalidation Container Orchestration OAuth The only way to do great work is to love what you do. A/B Testing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Lambda Functions If you can dream it, you can do it. Neural Networks Work hard in silence, let your success be your noise. Distributed Systems
 Work hard in silence, let your success be your noise. Zero Downtime Deployment Database Indexing UX Optimization Automation
 Success is not in what you have, but who you are. Monitoring API Gateway Dream big and dare to fail. Predictive Analytics Latency Optimization Machine Learning Simplicity is the ultimate sophistication. Load Testing Security Microservices
+Database Indexing GraphQL The only way to do great work is to love what you do. Cache Invalidation Machine Learning
