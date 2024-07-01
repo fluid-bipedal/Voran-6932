@@ -13,3 +13,4 @@ Zero Downtime Deployment To be the best, you must be able to handle the worst. F
 JavaScript GraphQL Do what you love and the money will follow. Great things never come from comfort zones. Logging
 Automation Kafka Multi-threading Quantum Computing Backend Virtual Machines Success usually comes to those who are too busy to be looking for it. Performance Microservices
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. JWT Blockchain Neural Networks Success is how high you bounce when you hit bottom.
+JavaScript A/B Testing Cloud DNS Routing Quantum Computing
