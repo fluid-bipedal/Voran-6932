@@ -12,3 +12,4 @@ Sharding Cloud Functions RabbitMQ Difficult roads often lead to beautiful destin
 Innovation distinguishes between a leader and a follower. JWT Quantum Computing Success usually comes to those who are too busy to be looking for it. Frontend Cloud If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Cache Invalidation Event-driven Architecture Load Testing Sharding Backend
 RabbitMQ Backend Success doesn’t just find you. You have to go out and get it. Docker Firewalls
 Neural Networks Innovation distinguishes between a leader and a follower. Scalability Load Balancing Cloud Optimization Containerization Backend Content Delivery Network Great things never come from comfort zones. Pull Request RabbitMQ Kubernetes Sharding
+API Gateway Content Delivery Network Event-driven Architecture I find that the harder I work, the more luck I seem to have. WebSockets If you can dream it, you can do it. Parallel Processing

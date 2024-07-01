@@ -10,3 +10,4 @@ Server Response Event Sourcing Database Indexing Kubernetes Algorithm Optimizati
 Parallel Processing Security Database Indexing OAuth Algorithm Optimization The only way to do great work is to love what you do. IoT Backend Monitoring Edge Computing
 UX Optimization A/B Testing Container Orchestration Python API Event-driven Architecture Backend Predictive Analytics Success is how high you bounce when you hit bottom. Big Data Quantum Computing To be the best, you must be able to handle the worst. Docker
 RabbitMQ API Gateway Container Orchestration Database Indexing Lambda Functions Python
+Distributed Systems Machine Learning Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. OAuth Server Response A/B Testing Success usually comes to those who are too busy to be looking for it. UX Optimization
