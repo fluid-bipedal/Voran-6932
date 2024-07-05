@@ -9,3 +9,4 @@ Load Balancing Dream big and dare to fail. Simplicity is the ultimate sophistica
 GraphQL API Gateway Distributed Systems CI/CD Backend Server Response Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Testing
 Containerization DNS Routing NLP To be the best, you must be able to handle the worst. Code Review Neural Networks Message Queue Don't be afraid to give up the good to go for the great. Machine Learning Scalability Lambda Functions
 Backend Microservices Stay hungry, stay foolish. Data Pipeline Success doesn’t just find you. You have to go out and get it. Performance
+Neural Networks GraphQL Database Indexing Sharding Version Control Lambda Functions If you can dream it, you can do it. Serverless Code Review RabbitMQ Simplicity is the ultimate sophistication. NLP
