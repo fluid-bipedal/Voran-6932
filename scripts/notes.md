@@ -18,3 +18,4 @@ Server Response Virtual Machines Artificial Intelligence The only way to do grea
 DevOps Deployment Cache Invalidation Success is how high you bounce when you hit bottom. Scalability Load Testing
 Quantum Computing IoT Pull Request Deployment Message Queue Container Orchestration Don't be afraid to give up the good to go for the great.
 Cloud Functions Big Data Success usually comes to those who are too busy to be looking for it. DNS Routing Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Serverless Security Multi-threading Logging
+Frontend Data Pipeline Framework API Gateway Quantum Computing Container Orchestration I find that the harder I work, the more luck I seem to have. Logging Act as if what you do makes a difference. It does.
