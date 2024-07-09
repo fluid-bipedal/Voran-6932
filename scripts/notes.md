@@ -17,3 +17,4 @@ Cloud Event-driven Architecture Testing Code Review Predictive Analytics Python 
 Server Response Virtual Machines Artificial Intelligence The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Algorithm
 DevOps Deployment Cache Invalidation Success is how high you bounce when you hit bottom. Scalability Load Testing
 Quantum Computing IoT Pull Request Deployment Message Queue Container Orchestration Don't be afraid to give up the good to go for the great.
+Cloud Functions Big Data Success usually comes to those who are too busy to be looking for it. DNS Routing Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Serverless Security Multi-threading Logging
