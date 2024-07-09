@@ -9,3 +9,4 @@ Event-driven Architecture Agile CI/CD Kafka Firewalls Cloud Docker JWT RabbitMQ 
 Optimization Latency Optimization Backend Load Testing Big Data Code Review Version Control Event Sourcing Message Queue Testing Predictive Analytics Deployment IoT DNS Routing Quantum Computing
 Cache Invalidation Load Testing Server Response WebSockets Firewalls CI/CD
 OAuth The only way to do great work is to love what you do. Database Monitoring Message Queue Predictive Analytics Innovation distinguishes between a leader and a follower. Neural Networks To be the best, you must be able to handle the worst.
+RabbitMQ Pull Request Great things never come from comfort zones. To be the best, you must be able to handle the worst. Containerization Quantum Computing Firewalls GraphQL Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. The only way to do great work is to love what you do.

@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. Cloud Succ
 Machine Learning Automation Artificial Intelligence Event-driven Architecture Great things never come from comfort zones. Frontend Event Sourcing Multi-threading Deployment Message Queue Latency Optimization Distributed Systems Do what you love and the money will follow.
 Security Cloud Functions Stay hungry, stay foolish. Container Orchestration To be the best, you must be able to handle the worst. Database Lambda Functions Serverless
 Dream big and dare to fail. Cloud Frontend Parallel Processing Machine Learning JavaScript CI/CD
+WebSockets Neural Networks Load Balancing Virtual Machines Kafka Monitoring Success is not in what you have, but who you are. DevOps Cache Invalidation Latency Optimization Optimization CI/CD Work hard in silence, let your success be your noise. Firewalls Stay hungry, stay foolish.
