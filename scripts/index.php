@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Microservices Docker Code Revi
 Distributed Systems DNS Routing CI/CD The only way to do great work is to love what you do. Frontend JavaScript
 Version Control Server Response API Monitoring Lambda Functions
 DevOps Innovation distinguishes between a leader and a follower. Predictive Analytics Great things never come from comfort zones. OAuth Simplicity is the ultimate sophistication. A/B Testing Container Orchestration Deployment
+Latency Optimization Optimization Scalability Monitoring Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. NLP Backend Innovation distinguishes between a leader and a follower. Algorithm RabbitMQ Lambda Functions Testing Edge Computing Event Sourcing
