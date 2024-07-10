@@ -15,3 +15,4 @@ Big Data Kafka Pull Request OAuth Success usually comes to those who are too bus
 Sharding Event Sourcing Algorithm Replica Set GraphQL DNS Routing Scalability If you can dream it, you can do it. Lambda Functions
 Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Machine Learning Kubernetes Testing Innovation distinguishes between a leader and a follower.
 Big Data Difficult roads often lead to beautiful destinations. Virtual Machines Opportunities don't happen. You create them. A/B Testing If you can dream it, you can do it. Replica Set
+Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Database Indexing GraphQL Machine Learning Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Server Response React RabbitMQ Stay hungry, stay foolish. Content Delivery Network Zero Downtime Deployment
