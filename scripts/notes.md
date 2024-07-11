@@ -16,3 +16,4 @@ Innovation distinguishes between a leader and a follower. Lambda Functions Big D
 Cloud Event-driven Architecture Testing Code Review Predictive Analytics Python DNS Routing Do what you love and the money will follow.
 Server Response Virtual Machines Artificial Intelligence The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Algorithm
 DevOps Deployment Cache Invalidation Success is how high you bounce when you hit bottom. Scalability Load Testing
+Quantum Computing IoT Pull Request Deployment Message Queue Container Orchestration Don't be afraid to give up the good to go for the great.
