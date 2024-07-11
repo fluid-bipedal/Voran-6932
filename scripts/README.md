@@ -14,3 +14,4 @@ Blockchain Container Orchestration Content Delivery Network Predictive Analytics
 Testing Load Testing Automation Version Control Deployment
 Pull Request WebSockets Machine Learning Serverless API Gateway Data Pipeline Container Orchestration Do what you love and the money will follow. Algorithm NLP Replica Set
 Algorithm Success is not in what you have, but who you are. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Backend
+Container Orchestration Neural Networks Backend Multi-threading Event Sourcing Latency Optimization Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Deployment Work hard in silence, let your success be your noise. JavaScript Serverless IoT

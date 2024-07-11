@@ -9,3 +9,4 @@ Lambda Functions Logging Docker Big Data Deployment To be the best, you must be 
 Server Response Event Sourcing Database Indexing Kubernetes Algorithm Optimization Do what you love and the money will follow. Cache Invalidation Testing Great things never come from comfort zones. Virtual Machines Zero Downtime Deployment To be the best, you must be able to handle the worst.
 Parallel Processing Security Database Indexing OAuth Algorithm Optimization The only way to do great work is to love what you do. IoT Backend Monitoring Edge Computing
 UX Optimization A/B Testing Container Orchestration Python API Event-driven Architecture Backend Predictive Analytics Success is how high you bounce when you hit bottom. Big Data Quantum Computing To be the best, you must be able to handle the worst. Docker
+RabbitMQ API Gateway Container Orchestration Database Indexing Lambda Functions Python
