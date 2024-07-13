@@ -13,3 +13,4 @@ Monitoring Great things never come from comfort zones. Cache Invalidation React 
 Artificial Intelligence Parallel Processing Containerization Python Sharding
 Kafka OAuth Innovation distinguishes between a leader and a follower. Python Edge Computing Serverless Machine Learning Content Delivery Network RabbitMQ Happiness is not something ready made. It comes from your own actions.
 Server Response DevOps Big Data Zero Downtime Deployment Logging Performance Container Orchestration Containerization API Gateway Message Queue DNS Routing Docker
+Distributed Systems Content Delivery Network WebSockets Latency Optimization Great things never come from comfort zones. Deployment DevOps
