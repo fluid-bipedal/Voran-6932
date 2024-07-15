@@ -17,3 +17,4 @@ I find that the harder I work, the more luck I seem to have. Logging Distributed
 Agile To be the best, you must be able to handle the worst. Replica Set Testing JWT
 Parallel Processing Success is how high you bounce when you hit bottom. Testing Kubernetes DNS Routing If you can dream it, you can do it.
 Latency Optimization Framework Innovation distinguishes between a leader and a follower. Automation The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Serverless Kubernetes Kafka Data Pipeline JavaScript Predictive Analytics
+Logging Optimization To be the best, you must be able to handle the worst. Server Response Event Sourcing Machine Learning Cloud Functions UX Optimization Backend Docker Don't be afraid to give up the good to go for the great. Firewalls Kafka
