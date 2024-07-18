@@ -12,3 +12,4 @@ RabbitMQ Don't be afraid to give up the good to go for the great. Innovation dis
 Microservices Virtual Machines Testing Artificial Intelligence Deployment Logging
 Framework Lambda Functions JWT Data Pipeline Edge Computing Do what you love and the money will follow. Kafka Deployment Event-driven Architecture Content Delivery Network CI/CD Logging Cache Invalidation Scalability Innovation distinguishes between a leader and a follower.
 Big Data Kafka Pull Request OAuth Success usually comes to those who are too busy to be looking for it. Database Indexing Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. If you can dream it, you can do it. Load Testing Multi-threading JWT Firewalls Act as if what you do makes a difference. It does.
+Sharding Event Sourcing Algorithm Replica Set GraphQL DNS Routing Scalability If you can dream it, you can do it. Lambda Functions
