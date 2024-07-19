@@ -12,3 +12,4 @@ Load Testing Replica Set Container Orchestration Security Message Queue Algorith
 Monitoring Great things never come from comfort zones. Cache Invalidation React Do what you love and the money will follow. UX Optimization JWT Don't be afraid to give up the good to go for the great. JavaScript CI/CD
 Artificial Intelligence Parallel Processing Containerization Python Sharding
 Kafka OAuth Innovation distinguishes between a leader and a follower. Python Edge Computing Serverless Machine Learning Content Delivery Network RabbitMQ Happiness is not something ready made. It comes from your own actions.
+Server Response DevOps Big Data Zero Downtime Deployment Logging Performance Container Orchestration Containerization API Gateway Message Queue DNS Routing Docker
