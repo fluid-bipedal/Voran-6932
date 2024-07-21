@@ -14,3 +14,4 @@ Microservices Opportunities don't happen. You create them. Act as if what you do
 Dream big and dare to fail. Latency Optimization Virtual Machines Agile Data Science
 Innovation distinguishes between a leader and a follower. Lambda Functions Big Data IoT Content Delivery Network Automation Virtual Machines JavaScript Success doesn’t just find you. You have to go out and get it. Load Testing Event-driven Architecture Performance Predictive Analytics Latency Optimization Data Science
 Cloud Event-driven Architecture Testing Code Review Predictive Analytics Python DNS Routing Do what you love and the money will follow.
+Server Response Virtual Machines Artificial Intelligence The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Algorithm
