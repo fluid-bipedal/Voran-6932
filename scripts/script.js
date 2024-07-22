@@ -7,3 +7,4 @@ Backend Do what you love and the money will follow. Algorithm API Parallel Proce
 Python Kubernetes Container Orchestration Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. NLP Artificial Intelligence
 Load Balancing Dream big and dare to fail. Simplicity is the ultimate sophistication. Serverless OAuth Version Control Database
 GraphQL API Gateway Distributed Systems CI/CD Backend Server Response Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Testing
+Containerization DNS Routing NLP To be the best, you must be able to handle the worst. Code Review Neural Networks Message Queue Don't be afraid to give up the good to go for the great. Machine Learning Scalability Lambda Functions
