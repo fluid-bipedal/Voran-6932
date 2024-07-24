@@ -10,3 +10,4 @@ Kubernetes Dream big and dare to fail. Artificial Intelligence IoT Firewalls Inn
 OAuth Database Load Balancing Framework JWT JavaScript A/B Testing IoT Multi-threading Testing Edge Computing Replica Set Docker
 Difficult roads often lead to beautiful destinations. Automation Success is not in what you have, but who you are. API Cache Invalidation
 Success doesn’t just find you. You have to go out and get it. Machine Learning Frontend Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Multi-threading Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does.
+JavaScript React Performance NLP Database Agile Success usually comes to those who are too busy to be looking for it. Quantum Computing Cloud Functions Container Orchestration Virtual Machines Load Balancing Success is how high you bounce when you hit bottom.
