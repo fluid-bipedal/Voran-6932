@@ -5,3 +5,4 @@ Scalability Automation Edge Computing Backend Load Balancing Sharding Microservi
 Frontend Zero Downtime Deployment Container Orchestration Firewalls NLP Do what you love and the money will follow.
 Do what you love and the money will follow. Deployment Backend Act as if what you do makes a difference. It does. Blockchain Virtual Machines Success doesn’t just find you. You have to go out and get it. Scalability Containerization Database Indexing Testing Serverless Message Queue IoT Container Orchestration
 Performance Microservices Work hard in silence, let your success be your noise. DevOps Database DNS Routing API Gateway Logging Serverless Distributed Systems Replica Set Backend UX Optimization Stay hungry, stay foolish. Message Queue
+Machine Learning Code Review Python Cache Invalidation JavaScript Load Balancing Quantum Computing UX Optimization Latency Optimization Monitoring Do what you love and the money will follow.
