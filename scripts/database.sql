@@ -10,3 +10,4 @@ Artificial Intelligence WebSockets Agile DNS Routing Happiness is not something 
 Performance Success is how high you bounce when you hit bottom. JavaScript Zero Downtime Deployment OAuth Automation Virtual Machines Success doesn’t just find you. You have to go out and get it. Big Data Container Orchestration
 Replica Set Code Review Frontend Event Sourcing Success is not in what you have, but who you are. Optimization Great things never come from comfort zones. Zero Downtime Deployment
 Zero Downtime Deployment To be the best, you must be able to handle the worst. Frontend Big Data Backend Latency Optimization Python Edge Computing Message Queue Server Response
+JavaScript GraphQL Do what you love and the money will follow. Great things never come from comfort zones. Logging
