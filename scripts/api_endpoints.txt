@@ -15,3 +15,4 @@ Cache Invalidation IoT Work hard in silence, let your success be your noise. Neu
 Pull Request Event Sourcing WebSockets Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Performance NLP JavaScript
 Pull Request Monitoring Success is how high you bounce when you hit bottom. Logging Sharding Machine Learning Dream big and dare to fail. CI/CD Quantum Computing Scalability Event Sourcing Zero Downtime Deployment Success is not in what you have, but who you are. Microservices
 Blockchain Difficult roads often lead to beautiful destinations. Lambda Functions Load Balancing Agile Monitoring Innovation distinguishes between a leader and a follower. Containerization
+Zero Downtime Deployment Neural Networks API Multi-threading Opportunities don't happen. You create them. Data Science Automation A/B Testing IoT Kafka JavaScript

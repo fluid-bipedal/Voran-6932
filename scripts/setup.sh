@@ -8,3 +8,4 @@ Virtual Machines Opportunities don't happen. You create them. Latency Optimizati
 Docker Framework Do what you love and the money will follow. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
 Kubernetes Dream big and dare to fail. Artificial Intelligence IoT Firewalls Innovation distinguishes between a leader and a follower. Frontend Lambda Functions If you can dream it, you can do it. Logging Zero Downtime Deployment GraphQL Cloud Functions
 OAuth Database Load Balancing Framework JWT JavaScript A/B Testing IoT Multi-threading Testing Edge Computing Replica Set Docker
+Difficult roads often lead to beautiful destinations. Automation Success is not in what you have, but who you are. API Cache Invalidation
