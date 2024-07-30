@@ -8,3 +8,4 @@ Machine Learning Microservices Success doesn’t just find you. You have to go out
 Artificial Intelligence WebSockets Cache Invalidation Framework Cloud Functions A/B Testing Success is how high you bounce when you hit bottom.
 Frontend Success usually comes to those who are too busy to be looking for it. Message Queue DevOps Zero Downtime Deployment Quantum Computing Optimization Virtual Machines Success is how high you bounce when you hit bottom. Serverless Firewalls Work hard in silence, let your success be your noise. Neural Networks Scalability
 Docker Pull Request Code Review Container Orchestration Do what you love and the money will follow. NLP Innovation distinguishes between a leader and a follower.
+Success usually comes to those who are too busy to be looking for it. RabbitMQ CI/CD React NLP Event-driven Architecture Optimization Testing If you can dream it, you can do it. Data Science Security Version Control Code Review A/B Testing
