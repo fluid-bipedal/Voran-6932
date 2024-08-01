@@ -8,3 +8,4 @@ Data Pipeline Load Balancing Backend Deployment Do what you love and the money w
 Event-driven Architecture Agile CI/CD Kafka Firewalls Cloud Docker JWT RabbitMQ Latency Optimization Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
 Optimization Latency Optimization Backend Load Testing Big Data Code Review Version Control Event Sourcing Message Queue Testing Predictive Analytics Deployment IoT DNS Routing Quantum Computing
 Cache Invalidation Load Testing Server Response WebSockets Firewalls CI/CD
+OAuth The only way to do great work is to love what you do. Database Monitoring Message Queue Predictive Analytics Innovation distinguishes between a leader and a follower. Neural Networks To be the best, you must be able to handle the worst.

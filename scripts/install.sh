@@ -7,3 +7,4 @@ Database Indexing GraphQL Cloud Act as if what you do makes a difference. It doe
 Machine Learning Microservices Success doesn’t just find you. You have to go out and get it. Big Data Sharding Scalability Blockchain Monitoring Backend Database Indexing Innovation distinguishes between a leader and a follower.
 Artificial Intelligence WebSockets Cache Invalidation Framework Cloud Functions A/B Testing Success is how high you bounce when you hit bottom.
 Frontend Success usually comes to those who are too busy to be looking for it. Message Queue DevOps Zero Downtime Deployment Quantum Computing Optimization Virtual Machines Success is how high you bounce when you hit bottom. Serverless Firewalls Work hard in silence, let your success be your noise. Neural Networks Scalability
+Docker Pull Request Code Review Container Orchestration Do what you love and the money will follow. NLP Innovation distinguishes between a leader and a follower.
