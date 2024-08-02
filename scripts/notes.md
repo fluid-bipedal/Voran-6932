@@ -13,3 +13,4 @@ Sharding Load Testing Serverless Virtual Machines NLP To be the best, you must b
 Microservices Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Firewalls Kubernetes Do what you love and the money will follow. Code Review Framework Success doesn’t just find you. You have to go out and get it. Distributed Systems Dream big and dare to fail.
 Dream big and dare to fail. Latency Optimization Virtual Machines Agile Data Science
 Innovation distinguishes between a leader and a follower. Lambda Functions Big Data IoT Content Delivery Network Automation Virtual Machines JavaScript Success doesn’t just find you. You have to go out and get it. Load Testing Event-driven Architecture Performance Predictive Analytics Latency Optimization Data Science
+Cloud Event-driven Architecture Testing Code Review Predictive Analytics Python DNS Routing Do what you love and the money will follow.
