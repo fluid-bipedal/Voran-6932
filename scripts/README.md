@@ -12,3 +12,4 @@ Success doesn’t just find you. You have to go out and get it. Pull Request Succe
 Lambda Functions Dream big and dare to fail. Framework Success is how high you bounce when you hit bottom. GraphQL Great things never come from comfort zones. Performance Big Data UX Optimization Don't be afraid to give up the good to go for the great.
 Blockchain Container Orchestration Content Delivery Network Predictive Analytics Innovation distinguishes between a leader and a follower. API Replica Set Machine Learning JavaScript Firewalls Artificial Intelligence Data Science Event Sourcing Docker I find that the harder I work, the more luck I seem to have.
 Testing Load Testing Automation Version Control Deployment
+Pull Request WebSockets Machine Learning Serverless API Gateway Data Pipeline Container Orchestration Do what you love and the money will follow. Algorithm NLP Replica Set
