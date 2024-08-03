@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Artificial Intelligence Ka
 API UX Optimization Lambda Functions Distributed Systems Quantum Computing
 Backend Do what you love and the money will follow. Algorithm API Parallel Processing
 Python Kubernetes Container Orchestration Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. NLP Artificial Intelligence
+Load Balancing Dream big and dare to fail. Simplicity is the ultimate sophistication. Serverless OAuth Version Control Database
