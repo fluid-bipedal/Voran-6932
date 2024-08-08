@@ -4,3 +4,4 @@ Blockchain Great things never come from comfort zones. Machine Learning Difficul
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Kafka Big Data If you can dream it, you can do it. Database Parallel Processing Framework Lambda Functions NLP Machine Learning Work hard in silence, let your success be your noise.
 API UX Optimization Lambda Functions Distributed Systems Quantum Computing
 Backend Do what you love and the money will follow. Algorithm API Parallel Processing
+Python Kubernetes Container Orchestration Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. NLP Artificial Intelligence

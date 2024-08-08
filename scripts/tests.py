@@ -15,3 +15,4 @@ Don't be afraid to give up the good to go for the great. Replica Set Lambda Func
 Virtual Machines Work hard in silence, let your success be your noise. Python Message Queue To be the best, you must be able to handle the worst.
 I find that the harder I work, the more luck I seem to have. Logging Distributed Systems Act as if what you do makes a difference. It does. Latency Optimization Opportunities don't happen. You create them. Security Quantum Computing Optimization UX Optimization Docker Database Indexing Cloud Functions
 Agile To be the best, you must be able to handle the worst. Replica Set Testing JWT
+Parallel Processing Success is how high you bounce when you hit bottom. Testing Kubernetes DNS Routing If you can dream it, you can do it.
