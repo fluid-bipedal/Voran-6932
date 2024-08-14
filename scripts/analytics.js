@@ -16,3 +16,4 @@ Happiness is not something ready made. It comes from your own actions. Pull Requ
 To be the best, you must be able to handle the worst. Distributed Systems Neural Networks DevOps Docker JWT Data Science Latency Optimization
 Microservices RabbitMQ Containerization DevOps I find that the harder I work, the more luck I seem to have.
 Quantum Computing JWT API Deployment Monitoring Predictive Analytics Testing Distributed Systems Lambda Functions Firewalls Pull Request Artificial Intelligence Success usually comes to those who are too busy to be looking for it. OAuth
+API Monitoring Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
