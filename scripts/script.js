@@ -3,3 +3,4 @@ Kubernetes API RabbitMQ Optimization Event Sourcing Predictive Analytics CI/CD D
 Blockchain Great things never come from comfort zones. Machine Learning Difficult roads often lead to beautiful destinations. React Serverless Microservices RabbitMQ API Gateway Pull Request Event Sourcing Opportunities don't happen. You create them. Replica Set
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Kafka Big Data If you can dream it, you can do it. Database Parallel Processing Framework Lambda Functions NLP Machine Learning Work hard in silence, let your success be your noise.
 API UX Optimization Lambda Functions Distributed Systems Quantum Computing
+Backend Do what you love and the money will follow. Algorithm API Parallel Processing
