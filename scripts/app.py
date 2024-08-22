@@ -3,3 +3,4 @@ Agile React Zero Downtime Deployment Great things never come from comfort zones.
 Success usually comes to those who are too busy to be looking for it. Cloud Functions Dream big and dare to fail. Performance Load Testing Logging Cache Invalidation Latency Optimization Server Response Machine Learning Container Orchestration API Gateway Blockchain JavaScript Distributed Systems
 Scalability Automation Edge Computing Backend Load Balancing Sharding Microservices Pull Request Algorithm Neural Networks Blockchain
 Frontend Zero Downtime Deployment Container Orchestration Firewalls NLP Do what you love and the money will follow.
+Do what you love and the money will follow. Deployment Backend Act as if what you do makes a difference. It does. Blockchain Virtual Machines Success doesn’t just find you. You have to go out and get it. Scalability Containerization Database Indexing Testing Serverless Message Queue IoT Container Orchestration
