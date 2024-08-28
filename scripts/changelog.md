@@ -10,3 +10,4 @@ Agile Scalability JavaScript Frontend Success usually comes to those who are too
 Multi-threading Load Balancing Replica Set Database RabbitMQ
 RabbitMQ Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Opportunities don't happen. You create them. Docker Message Queue OAuth Simplicity is the ultimate sophistication. Logging Zero Downtime Deployment Pull Request
 Microservices Virtual Machines Testing Artificial Intelligence Deployment Logging
+Framework Lambda Functions JWT Data Pipeline Edge Computing Do what you love and the money will follow. Kafka Deployment Event-driven Architecture Content Delivery Network CI/CD Logging Cache Invalidation Scalability Innovation distinguishes between a leader and a follower.
