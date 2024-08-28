@@ -11,3 +11,4 @@ Event-driven Architecture Performance Neural Networks Opportunities don't happen
 Big Data Simplicity is the ultimate sophistication. Cloud Neural Networks Optimization Automation Code Review React Pull Request RabbitMQ Load Balancing
 Logging Success is not in what you have, but who you are. Data Pipeline Container Orchestration API Gateway
 Success usually comes to those who are too busy to be looking for it. Cloud Success is not in what you have, but who you are. Serverless Blockchain Kafka
+Machine Learning Automation Artificial Intelligence Event-driven Architecture Great things never come from comfort zones. Frontend Event Sourcing Multi-threading Deployment Message Queue Latency Optimization Distributed Systems Do what you love and the money will follow.
