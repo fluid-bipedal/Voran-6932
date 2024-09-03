@@ -7,3 +7,4 @@ Data Pipeline Work hard in silence, let your success be your noise. IoT Testing 
 Data Pipeline Load Balancing Backend Deployment Do what you love and the money will follow.
 Event-driven Architecture Agile CI/CD Kafka Firewalls Cloud Docker JWT RabbitMQ Latency Optimization Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
 Optimization Latency Optimization Backend Load Testing Big Data Code Review Version Control Event Sourcing Message Queue Testing Predictive Analytics Deployment IoT DNS Routing Quantum Computing
+Cache Invalidation Load Testing Server Response WebSockets Firewalls CI/CD
