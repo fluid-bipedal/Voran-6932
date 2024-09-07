@@ -11,3 +11,4 @@ Optimization Difficult roads often lead to beautiful destinations. Load Testing 
 Docker Performance Latency Optimization Dream big and dare to fail. Stay hungry, stay foolish. Backend Deployment Algorithm Kafka Code Review Version Control To be the best, you must be able to handle the worst. DevOps Load Balancing
 Sharding Load Testing Serverless Virtual Machines NLP To be the best, you must be able to handle the worst. React Success usually comes to those who are too busy to be looking for it. Event Sourcing Data Science Stay hungry, stay foolish.
 Microservices Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Firewalls Kubernetes Do what you love and the money will follow. Code Review Framework Success doesn’t just find you. You have to go out and get it. Distributed Systems Dream big and dare to fail.
+Dream big and dare to fail. Latency Optimization Virtual Machines Agile Data Science
