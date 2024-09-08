@@ -9,3 +9,4 @@ Blockchain Simplicity is the ultimate sophistication. Innovation distinguishes b
 Database Scalability IoT Great things never come from comfort zones. If you can dream it, you can do it. React Cache Invalidation Success doesn’t just find you. You have to go out and get it. Predictive Analytics Edge Computing Difficult roads often lead to beautiful destinations. Code Review Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Firewalls
 Event-driven Architecture Performance Neural Networks Opportunities don't happen. You create them. Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Security
 Big Data Simplicity is the ultimate sophistication. Cloud Neural Networks Optimization Automation Code Review React Pull Request RabbitMQ Load Balancing
+Logging Success is not in what you have, but who you are. Data Pipeline Container Orchestration API Gateway
