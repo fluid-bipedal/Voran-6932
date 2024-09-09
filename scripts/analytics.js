@@ -14,3 +14,4 @@ Machine Learning Happiness is not something ready made. It comes from your own a
 DevOps Great things never come from comfort zones. Dream big and dare to fail. Optimization Container Orchestration React Replica Set Load Balancing Latency Optimization Scalability Automation Innovation distinguishes between a leader and a follower. Performance Parallel Processing
 Happiness is not something ready made. It comes from your own actions. Pull Request Simplicity is the ultimate sophistication. Logging Do what you love and the money will follow. Kafka Version Control Algorithm
 To be the best, you must be able to handle the worst. Distributed Systems Neural Networks DevOps Docker JWT Data Science Latency Optimization
+Microservices RabbitMQ Containerization DevOps I find that the harder I work, the more luck I seem to have.
