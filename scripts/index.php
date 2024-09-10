@@ -11,3 +11,4 @@ Microservices Opportunities don't happen. You create them. Work hard in silence,
 Work hard in silence, let your success be your noise. DNS Routing Python Firewalls Distributed Systems Backend Artificial Intelligence Cloud API Gateway IoT RabbitMQ Optimization Security Virtual Machines Zero Downtime Deployment
 Pull Request Frontend Server Response Logging CI/CD Data Pipeline
 Performance RabbitMQ Cloud Algorithm Database Indexing Firewalls Cache Invalidation Backend GraphQL
+Edge Computing Pull Request Python Message Queue Cloud Functions Zero Downtime Deployment JWT DevOps Backend Framework Deployment Replica Set Lambda Functions I find that the harder I work, the more luck I seem to have.
