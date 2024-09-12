@@ -9,3 +9,4 @@ Sharding Data Science Neural Networks Performance WebSockets Python Frontend Suc
 Agile Scalability JavaScript Frontend Success usually comes to those who are too busy to be looking for it. WebSockets Testing Success is not in what you have, but who you are.
 Multi-threading Load Balancing Replica Set Database RabbitMQ
 RabbitMQ Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Opportunities don't happen. You create them. Docker Message Queue OAuth Simplicity is the ultimate sophistication. Logging Zero Downtime Deployment Pull Request
+Microservices Virtual Machines Testing Artificial Intelligence Deployment Logging
