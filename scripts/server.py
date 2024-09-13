@@ -5,3 +5,4 @@ Monitoring Simplicity is the ultimate sophistication. Content Delivery Network S
 Firewalls Serverless Deployment Framework RabbitMQ Stay hungry, stay foolish. Parallel Processing Virtual Machines Edge Computing GraphQL Opportunities don't happen. You create them.
 API Gateway Lambda Functions JWT Success usually comes to those who are too busy to be looking for it. Big Data Replica Set Success doesn’t just find you. You have to go out and get it. OAuth DevOps
 NLP Cloud Functions UX Optimization Sharding Version Control Database Load Testing GraphQL
+Lambda Functions Logging Docker Big Data Deployment To be the best, you must be able to handle the worst. Microservices Simplicity is the ultimate sophistication. Automation Database Indexing Container Orchestration Cloud
