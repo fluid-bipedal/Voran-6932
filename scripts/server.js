@@ -4,3 +4,4 @@ Kafka Optimization Act as if what you do makes a difference. It does. Success us
 Kafka Event-driven Architecture Load Testing Machine Learning Big Data A/B Testing Backend Python
 Automation Containerization Happiness is not something ready made. It comes from your own actions. Latency Optimization Big Data Logging OAuth If you can dream it, you can do it. Serverless
 Data Pipeline Work hard in silence, let your success be your noise. IoT Testing Success doesn’t just find you. You have to go out and get it.
+Data Pipeline Load Balancing Backend Deployment Do what you love and the money will follow.
