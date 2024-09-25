@@ -7,3 +7,4 @@ Containerization Kafka API Gateway Replica Set Pull Request Message Queue Quantu
 Latency Optimization Backend GraphQL Sharding Docker Monitoring Frontend Deployment API Gateway To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Data Science Data Pipeline CI/CD
 Replica Set Latency Optimization Do what you love and the money will follow. Machine Learning Optimization Data Science Python Deployment
 RabbitMQ Neural Networks Algorithm Success is how high you bounce when you hit bottom. Framework Opportunities don't happen. You create them. Edge Computing
+Dream big and dare to fail. Load Balancing Blockchain Zero Downtime Deployment Edge Computing Server Response Artificial Intelligence WebSockets Act as if what you do makes a difference. It does. IoT Version Control Cache Invalidation
