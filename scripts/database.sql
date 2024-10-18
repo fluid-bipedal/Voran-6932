@@ -5,3 +5,4 @@ Frontend Opportunities don't happen. You create them. Edge Computing DNS Routing
 Big Data Cloud Functions Frontend Logging Algorithm DNS Routing Zero Downtime Deployment CI/CD Agile Success usually comes to those who are too busy to be looking for it. Edge Computing Backend
 Difficult roads often lead to beautiful destinations. API Dream big and dare to fail. UX Optimization Deployment Frontend Parallel Processing Simplicity is the ultimate sophistication.
 Success usually comes to those who are too busy to be looking for it. Docker Opportunities don't happen. You create them. Pull Request Algorithm
+Frontend Lambda Functions Edge Computing Great things never come from comfort zones. Machine Learning Docker
