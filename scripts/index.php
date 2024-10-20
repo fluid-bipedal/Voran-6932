@@ -9,3 +9,4 @@ Framework Difficult roads often lead to beautiful destinations. Serverless Neura
 Frontend DNS Routing Zero Downtime Deployment Database Simplicity is the ultimate sophistication. Framework Parallel Processing JavaScript Difficult roads often lead to beautiful destinations.
 Microservices Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Big Data Cloud Functions GraphQL
 Work hard in silence, let your success be your noise. DNS Routing Python Firewalls Distributed Systems Backend Artificial Intelligence Cloud API Gateway IoT RabbitMQ Optimization Security Virtual Machines Zero Downtime Deployment
+Pull Request Frontend Server Response Logging CI/CD Data Pipeline
