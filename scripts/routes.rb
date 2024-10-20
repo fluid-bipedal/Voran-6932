@@ -5,3 +5,4 @@ Zero Downtime Deployment Microservices Performance JWT Pull Request Blockchain D
 Event-driven Architecture Testing API Gateway Cloud Functions Containerization Work hard in silence, let your success be your noise.
 Happiness is not something ready made. It comes from your own actions. Cache Invalidation Blockchain Success doesn’t just find you. You have to go out and get it. Load Balancing CI/CD A/B Testing Monitoring Database Indexing Virtual Machines React Containerization DNS Routing
 Python NLP Deployment Innovation distinguishes between a leader and a follower. Firewalls
+Blockchain Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Security Monitoring DevOps Great things never come from comfort zones. Optimization Version Control Firewalls Cache Invalidation Docker API
