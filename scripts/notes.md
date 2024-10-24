@@ -8,3 +8,4 @@ Container Orchestration I find that the harder I work, the more luck I seem to h
 Kafka Latency Optimization Database Indexing Sharding Backend Cloud Functions
 Microservices Don't be afraid to give up the good to go for the great. Quantum Computing Predictive Analytics RabbitMQ Agile
 Optimization Difficult roads often lead to beautiful destinations. Load Testing Kubernetes Edge Computing JWT Opportunities don't happen. You create them.
+Docker Performance Latency Optimization Dream big and dare to fail. Stay hungry, stay foolish. Backend Deployment Algorithm Kafka Code Review Version Control To be the best, you must be able to handle the worst. DevOps Load Balancing
