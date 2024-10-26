@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Frontend 
 WebSockets Kafka Kubernetes Performance Blockchain Act as if what you do makes a difference. It does. Container Orchestration If you can dream it, you can do it. Scalability Server Response IoT
 Load Testing IoT GraphQL Neural Networks DNS Routing Stay hungry, stay foolish. Cloud Functions WebSockets Container Orchestration Kubernetes Work hard in silence, let your success be your noise. Framework JavaScript Kafka API
 Microservices Firewalls Cache Invalidation Do what you love and the money will follow. Blockchain Great things never come from comfort zones. JWT Machine Learning Database Load Balancing
+Sharding Data Science Neural Networks Performance WebSockets Python Frontend Success is how high you bounce when you hit bottom. Cache Invalidation Deployment Success doesn’t just find you. You have to go out and get it. Machine Learning Monitoring
