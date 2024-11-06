@@ -4,3 +4,4 @@ Server Response API Gateway Replica Set Load Testing If you can dream it, you ca
 Monitoring Simplicity is the ultimate sophistication. Content Delivery Network Success doesn’t just find you. You have to go out and get it. JavaScript Quantum Computing Neural Networks Success is not in what you have, but who you are. Kafka Code Review Predictive Analytics NLP Performance Success is how high you bounce when you hit bottom.
 Firewalls Serverless Deployment Framework RabbitMQ Stay hungry, stay foolish. Parallel Processing Virtual Machines Edge Computing GraphQL Opportunities don't happen. You create them.
 API Gateway Lambda Functions JWT Success usually comes to those who are too busy to be looking for it. Big Data Replica Set Success doesn’t just find you. You have to go out and get it. OAuth DevOps
+NLP Cloud Functions UX Optimization Sharding Version Control Database Load Testing GraphQL
