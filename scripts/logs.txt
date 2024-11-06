@@ -2,3 +2,4 @@ Zero Downtime Deployment Testing To be the best, you must be able to handle the 
 CI/CD Server Response WebSockets Data Pipeline Sharding Container Orchestration Zero Downtime Deployment Security
 Python Security Performance CI/CD NLP Cloud Functions Version Control Happiness is not something ready made. It comes from your own actions. UX Optimization A/B Testing Opportunities don't happen. You create them. Lambda Functions
 Do what you love and the money will follow. Dream big and dare to fail. Blockchain Cache Invalidation Big Data
+DNS Routing WebSockets A/B Testing Replica Set Testing Database Indexing Container Orchestration Pull Request I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Automation
