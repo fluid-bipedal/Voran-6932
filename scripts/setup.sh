@@ -6,3 +6,4 @@ Edge Computing Neural Networks Zero Downtime Deployment WebSockets Artificial In
 Event Sourcing Agile Optimization Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Database Innovation distinguishes between a leader and a follower. CI/CD Logging OAuth JWT
 Virtual Machines Opportunities don't happen. You create them. Latency Optimization CI/CD Innovation distinguishes between a leader and a follower. Replica Set
 Docker Framework Do what you love and the money will follow. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
+Kubernetes Dream big and dare to fail. Artificial Intelligence IoT Firewalls Innovation distinguishes between a leader and a follower. Frontend Lambda Functions If you can dream it, you can do it. Logging Zero Downtime Deployment GraphQL Cloud Functions
