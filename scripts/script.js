@@ -1,1 +1,2 @@
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Automation Edge Computing Load Balancing Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. JWT Cache Invalidation Great things never come from comfort zones. A/B Testing
+Kubernetes API RabbitMQ Optimization Event Sourcing Predictive Analytics CI/CD Data Pipeline DevOps
