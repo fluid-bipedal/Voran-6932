@@ -4,3 +4,4 @@ Automation Success doesn’t just find you. You have to go out and get it. Paralle
 Happiness is not something ready made. It comes from your own actions. Frontend Load Balancing Dream big and dare to fail. Kafka To be the best, you must be able to handle the worst. Deployment Agile Success is how high you bounce when you hit bottom. Security RabbitMQ
 WebSockets Kafka Kubernetes Performance Blockchain Act as if what you do makes a difference. It does. Container Orchestration If you can dream it, you can do it. Scalability Server Response IoT
 Load Testing IoT GraphQL Neural Networks DNS Routing Stay hungry, stay foolish. Cloud Functions WebSockets Container Orchestration Kubernetes Work hard in silence, let your success be your noise. Framework JavaScript Kafka API
+Microservices Firewalls Cache Invalidation Do what you love and the money will follow. Blockchain Great things never come from comfort zones. JWT Machine Learning Database Load Balancing
