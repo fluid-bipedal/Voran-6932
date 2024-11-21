@@ -7,3 +7,4 @@ Virtual Machines Predictive Analytics Machine Learning DNS Routing Quantum Compu
 API Gateway Deployment GraphQL Act as if what you do makes a difference. It does. Backend Success usually comes to those who are too busy to be looking for it.
 Framework Difficult roads often lead to beautiful destinations. Serverless Neural Networks UX Optimization Kafka Do what you love and the money will follow. Content Delivery Network Backend Success usually comes to those who are too busy to be looking for it. Performance DevOps Work hard in silence, let your success be your noise. DNS Routing
 Frontend DNS Routing Zero Downtime Deployment Database Simplicity is the ultimate sophistication. Framework Parallel Processing JavaScript Difficult roads often lead to beautiful destinations.
+Microservices Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Big Data Cloud Functions GraphQL
