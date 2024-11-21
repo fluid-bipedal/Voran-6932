@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Kafka Load Testing Do w
 Edge Computing Neural Networks Zero Downtime Deployment WebSockets Artificial Intelligence Microservices Pull Request GraphQL Event-driven Architecture Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Performance Serverless Database
 Event Sourcing Agile Optimization Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Database Innovation distinguishes between a leader and a follower. CI/CD Logging OAuth JWT
 Virtual Machines Opportunities don't happen. You create them. Latency Optimization CI/CD Innovation distinguishes between a leader and a follower. Replica Set
+Docker Framework Do what you love and the money will follow. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
