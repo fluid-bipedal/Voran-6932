@@ -4,3 +4,4 @@ A/B Testing Database Frontend Success doesn’t just find you. You have to go out 
 Kafka OAuth Multi-threading Cache Invalidation React Version Control Pull Request
 Work hard in silence, let your success be your noise. GraphQL Distributed Systems Content Delivery Network Logging Lambda Functions Multi-threading Testing Event-driven Architecture Load Testing UX Optimization JavaScript
 Virtual Machines Success doesn’t just find you. You have to go out and get it. Performance Act as if what you do makes a difference. It does. Dream big and dare to fail. Event-driven Architecture
+Version Control Success is how high you bounce when you hit bottom. API Performance Monitoring Agile Firewalls Server Response Database Indexing Success doesn’t just find you. You have to go out and get it. Load Testing Algorithm
