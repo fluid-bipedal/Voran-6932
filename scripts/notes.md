@@ -6,3 +6,4 @@ Security Algorithm Data Science Kubernetes Database Success is not in what you h
 Predictive Analytics WebSockets Database Pull Request Testing Success is not in what you have, but who you are. UX Optimization Dream big and dare to fail. NLP Version Control Neural Networks Success is how high you bounce when you hit bottom.
 Container Orchestration I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Kafka CI/CD Cache Invalidation Cloud Functions Load Balancing Latency Optimization RabbitMQ Big Data Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
 Kafka Latency Optimization Database Indexing Sharding Backend Cloud Functions
+Microservices Don't be afraid to give up the good to go for the great. Quantum Computing Predictive Analytics RabbitMQ Agile
