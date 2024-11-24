@@ -3,3 +3,4 @@ Kubernetes DevOps Data Pipeline Kafka GraphQL Firewalls Database API Gateway Doc
 A/B Testing Database Frontend Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Server Response Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. API Gateway NLP Success usually comes to those who are too busy to be looking for it. CI/CD
 Kafka OAuth Multi-threading Cache Invalidation React Version Control Pull Request
 Work hard in silence, let your success be your noise. GraphQL Distributed Systems Content Delivery Network Logging Lambda Functions Multi-threading Testing Event-driven Architecture Load Testing UX Optimization JavaScript
+Virtual Machines Success doesn’t just find you. You have to go out and get it. Performance Act as if what you do makes a difference. It does. Dream big and dare to fail. Event-driven Architecture
