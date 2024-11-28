@@ -7,3 +7,4 @@ Sharding Virtual Machines To be the best, you must be able to handle the worst. 
 Dream big and dare to fail. Virtual Machines Security Stay hungry, stay foolish. Cloud UX Optimization Containerization
 The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Distributed Systems Data Pipeline NLP
 Dream big and dare to fail. Kubernetes Frontend Firewalls Big Data API JavaScript Work hard in silence, let your success be your noise.
+Success doesn’t just find you. You have to go out and get it. Automation Great things never come from comfort zones. Performance Docker OAuth Opportunities don't happen. You create them. WebSockets Event-driven Architecture Database Indexing

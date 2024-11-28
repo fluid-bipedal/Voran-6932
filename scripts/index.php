@@ -5,3 +5,4 @@ Event-driven Architecture Dream big and dare to fail. JWT Do what you love and t
 Edge Computing Algorithm Success is how high you bounce when you hit bottom. Cloud I find that the harder I work, the more luck I seem to have. Framework Zero Downtime Deployment Machine Learning
 Virtual Machines Predictive Analytics Machine Learning DNS Routing Quantum Computing RabbitMQ Testing Agile Kubernetes
 API Gateway Deployment GraphQL Act as if what you do makes a difference. It does. Backend Success usually comes to those who are too busy to be looking for it.
+Framework Difficult roads often lead to beautiful destinations. Serverless Neural Networks UX Optimization Kafka Do what you love and the money will follow. Content Delivery Network Backend Success usually comes to those who are too busy to be looking for it. Performance DevOps Work hard in silence, let your success be your noise. DNS Routing
