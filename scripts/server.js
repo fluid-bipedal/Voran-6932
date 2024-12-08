@@ -1,3 +1,4 @@
 Testing Latency Optimization Innovation distinguishes between a leader and a follower. Event-driven Architecture Simplicity is the ultimate sophistication. Code Review
 Act as if what you do makes a difference. It does. Code Review Machine Learning Stay hungry, stay foolish. Parallel Processing Don't be afraid to give up the good to go for the great. Latency Optimization UX Optimization JavaScript Big Data JWT Logging Cloud
 Kafka Optimization Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Big Data Server Response Replica Set Multi-threading If you can dream it, you can do it. Backend GraphQL Docker Don't be afraid to give up the good to go for the great.
+Kafka Event-driven Architecture Load Testing Machine Learning Big Data A/B Testing Backend Python
