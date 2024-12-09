@@ -6,3 +6,4 @@ Version Control Replica Set IoT Event-driven Architecture Pull Request Quantum C
 Sharding Virtual Machines To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. UX Optimization Message Queue DevOps WebSockets Happiness is not something ready made. It comes from your own actions. Machine Learning Great things never come from comfort zones.
 Dream big and dare to fail. Virtual Machines Security Stay hungry, stay foolish. Cloud UX Optimization Containerization
 The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Distributed Systems Data Pipeline NLP
+Dream big and dare to fail. Kubernetes Frontend Firewalls Big Data API JavaScript Work hard in silence, let your success be your noise.
