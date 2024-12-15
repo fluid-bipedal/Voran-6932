@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Database Python Agile Pred
 Event-driven Architecture Dream big and dare to fail. JWT Do what you love and the money will follow. Monitoring Zero Downtime Deployment API NLP Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 Edge Computing Algorithm Success is how high you bounce when you hit bottom. Cloud I find that the harder I work, the more luck I seem to have. Framework Zero Downtime Deployment Machine Learning
 Virtual Machines Predictive Analytics Machine Learning DNS Routing Quantum Computing RabbitMQ Testing Agile Kubernetes
+API Gateway Deployment GraphQL Act as if what you do makes a difference. It does. Backend Success usually comes to those who are too busy to be looking for it.
