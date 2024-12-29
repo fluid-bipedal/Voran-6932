@@ -4,3 +4,4 @@ Sharding Don't be afraid to give up the good to go for the great. Cloud Dream bi
 Innovation distinguishes between a leader and a follower. JavaScript CI/CD Opportunities don't happen. You create them. Framework
 Version Control Replica Set IoT Event-driven Architecture Pull Request Quantum Computing Success is how high you bounce when you hit bottom. Data Pipeline Scalability
 Sharding Virtual Machines To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. UX Optimization Message Queue DevOps WebSockets Happiness is not something ready made. It comes from your own actions. Machine Learning Great things never come from comfort zones.
+Dream big and dare to fail. Virtual Machines Security Stay hungry, stay foolish. Cloud UX Optimization Containerization
