@@ -1,3 +1,4 @@
 Frontend Backend IoT Innovation distinguishes between a leader and a follower. Kafka Big Data Virtual Machines Python Predictive Analytics
 Don't be afraid to give up the good to go for the great. Replica Set Cloud Functions UX Optimization Cloud Logging
 Replica Set Container Orchestration Microservices Neural Networks Database Indexing API Gateway A/B Testing Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Event Sourcing Success is not in what you have, but who you are. Load Testing Great things never come from comfort zones. Optimization Backend
+UX Optimization Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Load Testing Firewalls IoT Framework Latency Optimization Big Data OAuth Version Control I find that the harder I work, the more luck I seem to have.
