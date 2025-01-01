@@ -1,1 +1,2 @@
 Distributed Systems Latency Optimization OAuth Monitoring Content Delivery Network Container Orchestration Don't be afraid to give up the good to go for the great. Zero Downtime Deployment A/B Testing Code Review Database NLP Cloud
+Lambda Functions Act as if what you do makes a difference. It does. JavaScript Python Work hard in silence, let your success be your noise. Cloud Dream big and dare to fail. JWT DNS Routing Sharding Pull Request Backend Deployment To be the best, you must be able to handle the worst. API
