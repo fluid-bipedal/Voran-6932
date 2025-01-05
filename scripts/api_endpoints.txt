@@ -1,3 +1,4 @@
 Stay hungry, stay foolish. Opportunities don't happen. You create them. Great things never come from comfort zones. Kafka Lambda Functions
 CI/CD Happiness is not something ready made. It comes from your own actions. Database Scalability GraphQL Code Review
 Zero Downtime Deployment Great things never come from comfort zones. CI/CD Frontend Distributed Systems Server Response Multi-threading Serverless
+WebSockets Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Cloud Functions
