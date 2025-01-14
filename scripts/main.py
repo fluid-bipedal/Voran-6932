@@ -1,1 +1,2 @@
 A/B Testing Work hard in silence, let your success be your noise. RabbitMQ Optimization Success doesn’t just find you. You have to go out and get it. Algorithm API Gateway UX Optimization Deployment Quantum Computing Backend Server Response Don't be afraid to give up the good to go for the great. Database
+Kubernetes DevOps Data Pipeline Kafka GraphQL Firewalls Database API Gateway Docker Neural Networks Frontend
